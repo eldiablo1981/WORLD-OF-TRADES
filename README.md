@@ -18,14 +18,6 @@ The goal here is to simply create 2 simple lists to update, and to be able to se
 Display the results of the SEARCH.
 
 That' s it, it's SIMPLE, but not on the net.
-So now it's up to us.
 
-☆┌─┐　─┐☆
-　│▒│ /▒/
-　│▒│/▒/
-　│▒ /▒/─┬─┐
-　│▒│▒|▒│▒│
-┌┴─┴─┐-┘─┘ ●●Cool●●
-│▒┌──┘▒▒▒│
-└┐▒▒▒▒▒▒┌┘
-　└┐▒▒▒▒  Because I need your HELP  (っ◔◡◔)っ 💖
+So now it's up to us.
+Because I need your HELP  (っ◔◡◔)っ 💖
