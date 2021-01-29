@@ -1,14 +1,13 @@
-WELCOME TO MY WORLD GAMERS :-)
+WELCOME TO THE WORLD OF TRADE
 
-My Games Collection + Games For Trades
+The goal here is to simply create 2 simple lists to update, and to be able to search through this list. 
 
-I'll explain you what this page is for.  
-2 Situations what it will be used for:
+1- List with games to trade (for the moment).
+2- List with all my collection (so that we can propose you exchanges).
 
-1- Compare your games with mine, for trade?
+Display the results of the SEARCH.
 
-2- See the games I have to trade at the moment.
+That' s it, it's SIMPLE, but not on the net.
+So now it' s up to us, Because I need your HELP.
 
-It's very simply, you will be able to research through all my games.
-
-See you soon I hope.
+THANK YOU all
