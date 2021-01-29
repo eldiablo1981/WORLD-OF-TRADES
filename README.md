@@ -1,14 +1,23 @@
-WELCOME TO MY WORLD GAMERS :-)
 
-My Games Collection + Games For Trades
+░░██╗░░██╗███████╗██╗░░░░░██╗░░░░░███████╗░██╗░░
+░░██║░░██║██╔════╝██║░░░░░██║░░░░░██╔══██║░██║░░
+░░███████║█████╗░░██║░░░░░██║░░░░░██║░░██║░██║░░
+░░██╔══██║██╔══╝░░██║░░░░░██║░░░░░██║░░██║░╚═╝░░
+░░██║░░██║███████╗███████╗███████╗███████║░██╗░░
+░░╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝╚══════╝░╚═╝░░ 
 
-I'll explain you what this page is for.  
-2 Situations what it will be used for:
 
-1- Compare your games with mine, for trade?
+𝕋ℍ𝔼 𝕎𝕆ℝ𝕃𝔻 𝕆𝔽 𝕋ℝ𝔸𝔻𝔼𝕊
 
-2- See the games I have to trade at the moment.
+The goal here is to simply create 2 simple lists to update, and to be able to search through this list. 
 
-It's very simply, you will be able to research through all my games.
+1️⃣ OPTION = List with games you have to trade (for the moment).
 
-See you soon I hope.
+2️⃣ OPTION = List with all my GAMES collection (so that we can propose you a trade).
+
+Display the results of the SEARCH.
+
+That' s it, it's SIMPLE, but not on the net.
+
+So now it's up to us.
+Because I need your HELP  (っ◔◡◔)っ 💖
