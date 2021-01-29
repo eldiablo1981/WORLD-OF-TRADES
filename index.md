@@ -23,22 +23,22 @@ button {
 </head>
 
 <body>
-    <br />  
-       💝😍 ALL MY GAMES FOR TRADE 29/01/2021 💝😍<br />
+    <br>  
+       💝😍 ALL MY GAMES FOR TRADE 30/01/2021 💝😍<br>
 	   <a href="https://barter.vg/u/1fb5/l">MY BARTER,VG TRADE LINK</a><br>       
     <br>
-    <br />
-    <br />
-    <br />
-	𝗪𝗛𝗥𝗜𝗧𝗘 👇 𝗧𝗛𝗘 𝗚𝗔𝗠𝗘 𝗬𝗢𝗨 𝗦𝗘𝗔𝗥𝗖𝗛<br />
+    <br>
+    <br>
+    <br>
+	𝗪𝗛𝗥𝗜𝗧𝗘 👇 𝗧𝗛𝗘 𝗚𝗔𝗠𝗘 𝗬𝗢𝗨 𝗦𝗘𝗔𝗥𝗖𝗛<br/>
     <input type="text" id="findField" value="" size="20" />
     <button onclick="search();">Find!</button>
     <button onclick="removeHightlight();">removeHightlight</button>
     <script type="text/javascript" src="Untitled1.js"></script>
 
-    <br />
-    <br />	
-<br />  
+    <br>
+    <br>	
+<br>  
 <br>
 <p>🆂🆃🅴🅰🅼 🅺🅴🆈🆂<br></p>
 A Story About My Uncle<br>
