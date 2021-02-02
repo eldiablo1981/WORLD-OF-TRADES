@@ -1,12 +1,19 @@
-<!DOCTYPE html>
+<html lang="en">
 
-<meta name="robots" content="noindex">
 <html>
-
 <head>
-    <meta charset="utf-8">
-    <title>Search</title>
+   
+   <meta charset="utf-8">
+    <title>ALL MY GAMES FOR TRADE</title>
     <link rel="stylesheet" href="Untitled1.css" type="text/css" />
+	
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		
+<link type="text/plain" rel="author" href="https://word-of-trades.netlify.app/humans.txt" />
+
 
 <style id="jsbin-css">
 .hightlightClass {
@@ -23,25 +30,26 @@ button {
 </head>
 
 <body>
-    <br>  
-       💝😍 ALL MY GAMES FOR TRADE 30/01/2021 💝😍<br>
-	   <a href="https://barter.vg/u/1fb5/l">MY BARTER,VG TRADE LINK</a><br>       
-    <br>
-    <br>
-    <br>
-    <br>
-	𝗪𝗛𝗥𝗜𝗧𝗘 👇 𝗧𝗛𝗘 𝗚𝗔𝗠𝗘 𝗬𝗢𝗨 𝗦𝗘𝗔𝗥𝗖𝗛<br/>
+    <br/>  
+       <center>ππ ALL MY GAMES FOR TRADE ππ<br>
+	    <a href="https://barter.vg/u/1fb5/t">MY BARTER,VG TRADE LINK</a></center><br>
+		
+    <p style="margin-top:70px">
+
+		</p>
+		
+<center>πππππ§π π π§ππ πππ π π¬πʼπ¨ π¦πππππ<br>
     <input type="text" id="findField" value="" size="20" />
     <button onclick="search();">Find!</button>
     <button onclick="removeHightlight();">removeHightlight</button>
-    <script type="text/javascript" src="Untitled1.js"></script>
+    <script type="text/javascript" src="Untitled1.js"></script></center>
+	
+<p style="margin-top:80px">
+		</p>
+		
+<p>πππ΄π°πΌ πΊπ΄ππ<br>
 
-    <br>
-    <br>	
-<br>  
-<br>
-<p>🆂🆃🅴🅰🅼 🅺🅴🆈🆂<br></p>
-A Story About My Uncle<br>
+
 Absconding Zatwor<br>
 Adorables<br>
 AI War: Fleet Command<br>
@@ -268,20 +276,28 @@ Why So Evil + Why So Evil 2: Dystopia + Brilliant Bob + They Came From The Moon<
  + Why So Evil<br>
  + Why So Evil 2: Dystopia<br>
  + Brilliant Bob<br>
- + They Came From The Moon</p>
-
-<p>🅶🅾🅶.🅲🅾🅼<br>
+ + They Came From The Moon
+ </p>
+ 
+<p style="margin-top:40px">
+		</p>
+		
+<p>πΆπΎπΆ.π²πΎπΌ<br>
 POSTAL: Classic and Uncut<br>
-Slain: Back From Hell</p>
+Slain: Back From Hell
+</p>
 
-<p></p>
+<p style="margin-top:40px">
+		</p>
+		
+<p>ππ±πΈππΎπ΅π π²πΎπ½π½π΄π²π<br>
+Silent Hunter 5: Battle of the Atlantic
+</p>
 
-<p>🆄🅱🅸🆂🅾🅵🆃 🅲🅾🅽🅽🅴🅲🆃<br>
-Silent Hunter 5: Battle of the Atlantic</p>
+<p style="margin-top:40px">
+		</p>
 
-<p></p>
-
-<p>🅸🆃🅲🅷.🅸🅾<br>
+<p>πΈππ²π·.πΈπΎ<br>
 Age of Conquest 3<br>
 Balancity<br>
 Battle Ranch<br>
@@ -299,11 +315,13 @@ MonstaFish<br>
 Nikopol<br>
 The Silent Age<br>
 The Trials of Olympus<br>
-Wild West Stories: The Beginning</p>
+Wild West Stories: The Beginning
+</p>
 
-<p></p>
+<p style="margin-top:40px">
+		</p>
 
-<p>🆂🆃🅴🅰🅼 + 🆂🆃🅴🅰🅼 🅸🅽-🅶🅰🅼🅴 🅰🅲🆃🅸🆅🅰🆃🅸🅾🅽🆂<br>
+<p>πππ΄π°πΌ + πππ΄π°πΌ πΈπ½-πΆπ°πΌπ΄ π°π²ππΈππ°ππΈπΎπ½π<br>
 ArcheAge Sea Bug Mount<br>
 Battlecraft - Tactics Online Ninja Pack<br>
 Battlerite Arena Pack STARTER<br>
@@ -325,22 +343,48 @@ Spellweaver Valiant Dawn Full Playset<br>
 Spellweaver Wrath of Shamans DLC steam<br>
 Tactical Monsters Rumble Arena Freedom Booster Pack<br>
 Talion Online Premium Game Pack (Alienware Nov 2020)<br>
-Torqued Up Legends Double Legendary Vehicle Pack</p>
-<p></p>
-
-<p>🅴🅿🅸🅲 🅶🅰🅼🅴🆂 🆂🆃🅾🆁🅴<br>
-Foregone Demo</p>
-
-<p></p>
-
-<p>🅺🅰🆁🆃🆁🅸🅳🅶🅴<br>
-GRIDD: Retroenhanced</p>
-
-<p></p>
-
+Torqued Up Legends Double Legendary Vehicle Pack
 </p>
-<br>
-<br>
+
+<p style="margin-top:40px">
+		</p>
+
+<p>π΄πΏπΈπ² πΆπ°πΌπ΄π πππΎππ΄<br>
+Foregone Demo
+</p>
+
+<p style="margin-top:40px">
+		</p>
+
+<p>πΊπ°ππππΈπ³πΆπ΄<br>
+GRIDD: Retroenhanced
+</p>
+
+<p style="margin-top:40px">
+		</p>
+		
+<center><br><a href="index.html">RETURN HOME PAGE</a></center><br>
+		
+		<p style="margin-top:20px">
+		</p>
+
+<center>π π π π π π π π π π§ʽ π π π π
+			<p>
+			<a href="https://cutt.ly/7jd8XvL">
+			<img src="images/youtube.png" alt="MY YOUTUBE" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
+			
+			<a href="https://cutt.ly/qjd87om">
+			<img src="images/twitter.jpg" alt="MY TWITTER" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
+ 
+			<a href="https://cutt.ly/Ljd4tu5">
+			<img src="images/twitch.jpg" alt="MY TWITCH" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
+ 
+			<a href="https://cutt.ly/ujd4a7G">
+			<img src="images/reddit.jpg" alt="MY REDDIT" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
+ 
+
+<p>ππ ΜYΜ­ΓαΉ΄ α·FΝIΝNΜ¦Dα· ΝMΜ¬Δ ί±πβοΈ</center><br>
+
 
 <script id="jsbin-javascript">
 function findNext(str) {
