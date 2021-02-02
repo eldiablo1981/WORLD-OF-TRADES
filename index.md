@@ -12,7 +12,7 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 		<link rel="manifest" href="/site.webmanifest">
 		
-<link type="text/plain" rel="author" href="https://word-of-trades.netlify.app/humans.txt" />
+<link type="text/plain" rel="author" href="https://eldiablo1981.github.io/WORLD-OF-TRADES/humans.txt" />
 
 
 <style id="jsbin-css">
@@ -31,14 +31,14 @@ button {
 
 <body>
     <br/>  
-       <center>ππ ALL MY GAMES FOR TRADE ππ<br>
-	    <a href="https://barter.vg/u/1fb5/t">MY BARTER,VG TRADE LINK</a></center><br>
+       <center>💝😍 ALL MY GAMES FOR TRADE 💝😍<br>
+	    <a href="https://barter.vg/u/1fb5/t">MY BARTER,VG GAMES 4 TRADE LINK</a></center><br>
 		
     <p style="margin-top:70px">
 
 		</p>
 		
-<center>πππππ§π π π§ππ πππ π π¬πʼπ¨ π¦πππππ<br>
+<center>𝗪𝗛𝗥𝗜𝗧𝗘 👇 𝗧𝗛𝗘 𝗚𝗔𝗠𝗘 𝗬𝗢𝗨 𝗦𝗘𝗔𝗥𝗖𝗛<br>
     <input type="text" id="findField" value="" size="20" />
     <button onclick="search();">Find!</button>
     <button onclick="removeHightlight();">removeHightlight</button>
@@ -47,7 +47,7 @@ button {
 <p style="margin-top:80px">
 		</p>
 		
-<p>πππ΄π°πΌ πΊπ΄ππ<br>
+<p><b>STEAM KEYS</b><br>
 
 
 Absconding Zatwor<br>
@@ -282,7 +282,7 @@ Why So Evil + Why So Evil 2: Dystopia + Brilliant Bob + They Came From The Moon<
 <p style="margin-top:40px">
 		</p>
 		
-<p>πΆπΎπΆ.π²πΎπΌ<br>
+<p><b>GOG.COM</b><br>
 POSTAL: Classic and Uncut<br>
 Slain: Back From Hell
 </p>
@@ -290,14 +290,14 @@ Slain: Back From Hell
 <p style="margin-top:40px">
 		</p>
 		
-<p>ππ±πΈππΎπ΅π π²πΎπ½π½π΄π²π<br>
+<p><b>UBISOFT CONNECT</b><br>
 Silent Hunter 5: Battle of the Atlantic
 </p>
 
 <p style="margin-top:40px">
 		</p>
 
-<p>πΈππ²π·.πΈπΎ<br>
+<p><b>ITCH.IO</b><br>
 Age of Conquest 3<br>
 Balancity<br>
 Battle Ranch<br>
@@ -321,7 +321,7 @@ Wild West Stories: The Beginning
 <p style="margin-top:40px">
 		</p>
 
-<p>πππ΄π°πΌ + πππ΄π°πΌ πΈπ½-πΆπ°πΌπ΄ π°π²ππΈππ°ππΈπΎπ½π<br>
+<p><b>STEAM KEYS + STEAM IN-GAME ACTIVATIONS</b><br>
 ArcheAge Sea Bug Mount<br>
 Battlecraft - Tactics Online Ninja Pack<br>
 Battlerite Arena Pack STARTER<br>
@@ -349,14 +349,14 @@ Torqued Up Legends Double Legendary Vehicle Pack
 <p style="margin-top:40px">
 		</p>
 
-<p>π΄πΏπΈπ² πΆπ°πΌπ΄π πππΎππ΄<br>
+<p><b>EPIC GAMES STORE</b><br>
 Foregone Demo
 </p>
 
 <p style="margin-top:40px">
 		</p>
 
-<p>πΊπ°ππππΈπ³πΆπ΄<br>
+<p><b>KARTRIDGE (Kongregate)</b><br>
 GRIDD: Retroenhanced
 </p>
 
@@ -368,7 +368,7 @@ GRIDD: Retroenhanced
 		<p style="margin-top:20px">
 		</p>
 
-<center>π π π π π π π π π π§ʽ π π π π
+<center>💘 💝 💖 💗 💓 💞 💕 💟 💔 🧡 💛 💚 💙 💜
 			<p>
 			<a href="https://cutt.ly/7jd8XvL">
 			<img src="images/youtube.png" alt="MY YOUTUBE" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
@@ -383,14 +383,14 @@ GRIDD: Retroenhanced
 			<img src="images/reddit.jpg" alt="MY REDDIT" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
  
 
-<p>ππ ΜYΜ­ΓαΉ΄ α·FΝIΝNΜ¦Dα· ΝMΜ¬Δ ί±πβοΈ</center><br>
+<p>👆💝 ̤Y̭ÓṴ ᷄F͘IͪN̦D᷆ ͥM̬Ē ߱💝☝️</center><br>
 
 
 <script id="jsbin-javascript">
 function findNext(str) {
 
     if (str == "") {
-        alert("🆆🅷🆁🅸🆃🅴 🅽🅰🅼🅴 🅾🅵 🆃🅷🅴 🅶🅰🅼🅴 🅿🅻🅴🅰🆂🅴!");
+        alert("WHRITE NAME OF THE GAME 🅿🅻🅴🅰🆂🅴!");
         return;
     }
     return window.find(str);
