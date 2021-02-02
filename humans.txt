@@ -1,0 +1,27 @@
+/* TEAM */
+	Chef: Frederico
+	Twitter: @fredyjackson81
+	YOUTUBE: https://cutt.ly/7jd8XvL
+	From:Dudelange, Luxembourg
+
+
+/* THANKS */
+
+	(First) FR Translator: Frederico
+	Twitter: @fredyjackson81
+	YOUTUBE: https://cutt.ly/7jd8XvL
+	From:Dudelange, Luxembourg
+
+	EN Translator: Frederico
+	Twitter: @fredyjackson81
+	YOUTUBE: https://cutt.ly/7jd8XvL
+	From:Dudelange, Luxembourg
+	
+	Media Queries by: Frederico (@fredyjackson81)
+		
+
+/* SITE */
+	Last update:2021/02/02
+	Language: English / French
+	Doctype:HTML, CSS, JAVA
+	IDE: Notepad++, FileZilla, Photoshop
