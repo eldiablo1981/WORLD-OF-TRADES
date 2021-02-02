@@ -383,7 +383,7 @@ GRIDD: Retroenhanced
 			<img src="images/reddit.jpg" alt="MY REDDIT" title="THE BEST I MAKE FOR YOU" width="120" height=60 /></a>
  
 
-<p>👆💝 ̤Y̭ÓṴ ᷄F͘IͪN̦D᷆ ͥM̬Ē ߱💝☝️</center><br>
+<p><center>👆💝 ̤Y̭ÓṴ ᷄F͘IͪN̦D᷆ ͥM̬Ē ߱💝☝️ </center><br>
 
 
 <script id="jsbin-javascript">
@@ -432,6 +432,5 @@ function removeHightlight() {
 }
 
 </script>
-</body>
 
-</html>
+</body></html>
