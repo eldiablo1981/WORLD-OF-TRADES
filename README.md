@@ -24,6 +24,12 @@ Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that ar
 .<br>
 .<br>
 That' s it, it's SIMPLE, but not on the net.<br>
-
+<br>
+<br>
+Just a little information:<br>
+I already added my games and my data. But it will be very easy to modify them with yours.<br>
+That's the GOAL<br>
+<br>
+<br>
 So now it's up to us.<br>
 Because I need your HELP  (っ◔◡◔)っ 💖
