@@ -21,8 +21,6 @@ Displaying the results of the SEARCH in a list, that would be SUPER.<br>
 And what I can't do at all at the moment:<br>
 Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that are missing in the other LIST.<br>
 <br>
-<br>
-<br>
 That' s it, it's SIMPLE, but not on the net.<br>
 <br>
 <br>
@@ -31,5 +29,5 @@ I already added my games and my data. But it will be very easy to modify them wi
 That's the GOAL<br>
 <br>
 <br>
-So now it's up to us.<br>
-Because I need your HELP  (っ◔◡◔)っ 💖
+<center>So now it's up to us.<br>
+<center>Because I need your HELP  (っ◔◡◔)っ 💖
