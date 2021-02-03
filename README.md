@@ -29,5 +29,5 @@ I already added my games and my data. But it will be very easy to modify them wi
 That's the GOAL<br>
 <br>
 <br>
-<center>So now it's up to us.<br>
-<center>Because I need your HELP  (っ◔◡◔)っ 💖
+So now it's up to us.<br>
+Because I need your HELP  (っ◔◡◔)っ 💖
