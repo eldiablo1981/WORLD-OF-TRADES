@@ -6,26 +6,24 @@
 ░░██║░░██║███████╗███████╗███████╗███████║░██╗░░
 ░░╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝╚══════╝░╚═╝░░ 
 
-
 😍 🤩 🔶 🔷 🔸 🔹 𝕋ℍ𝔼 𝕎𝕆ℝ𝕃𝔻 𝕆𝔽 𝕋ℝ𝔸𝔻𝔼𝕊 🔹 🔸 🔷 🔶 😍 🤩
 
 The goal here is to simply create 2 simple lists EASY to update, and to be able to search through this list. 
 
-1️⃣ OPTION = List with games you have to trade (for the moment).<br>
-2️⃣ OPTION = List with all my GAMES collection (so that we can propose you a trade).<br>
+1 OPTION  = List with games you have to trade (for the moment).
+2 OPTION = List with all my GAMES collection (so that we can propose you a trade).
 
-Displaying the results of the SEARCH in a list, that would be SUPER.<br>
+Displaying the results of the SEARCH in a list, that would be SUPER.
+.
+.
+💋👉 𝗩𝗘𝗥𝗬 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧:
 
-<p style="margin-top:80px"></p>
+And what I can't do at all at the moment:
+Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that are missing in the other LIST.
+.
+.
+.
+That' s it, it's SIMPLE, but not on the net.
 
-💋👉 𝗩𝗘𝗥𝗬 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧:<br>
-
-And what I can't do at all at the moment:<br>
-Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that are missing in the other LIST.<br>
-
-<p style="margin-top:50px"></p>
-
-That' s it, it's SIMPLE, but not on the net.<br>
-
-So now it's up to us.<br>
+So now it's up to us.
 Because I need your HELP  (っ◔◡◔)っ 💖
