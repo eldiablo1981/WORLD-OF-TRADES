@@ -8,22 +8,22 @@
 
 😍 🤩 🔶 🔷 🔸 🔹 𝕋ℍ𝔼 𝕎𝕆ℝ𝕃𝔻 𝕆𝔽 𝕋ℝ𝔸𝔻𝔼𝕊 🔹 🔸 🔷 🔶 😍 🤩
 
-The goal here is to simply create 2 simple lists EASY to update, and to be able to search through this list. 
+The goal here is to simply create 2 simple lists EASY to update, and to be able to search through this list.<br> 
 
-1 OPTION  = List with games you have to trade (for the moment).
-2 OPTION = List with all my GAMES collection (so that we can propose you a trade).
+1 OPTION  = List with games you have to trade (for the moment).<br>
+2 OPTION = List with all my GAMES collection (so that we can propose you a trade).<br>
 
-Displaying the results of the SEARCH in a list, that would be SUPER.
+Displaying the results of the SEARCH in a list, that would be SUPER.<br>
 .
 .
-💋👉 𝗩𝗘𝗥𝗬 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧:
+💋👉 𝗩𝗘𝗥𝗬 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧:<br>
 
-And what I can't do at all at the moment:
-Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that are missing in the other LIST.
+And what I can't do at all at the moment:<br>
+Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that are missing in the other LIST.<br>
 .
 .
 .
-That' s it, it's SIMPLE, but not on the net.
+That' s it, it's SIMPLE, but not on the net.<br>
 
-So now it's up to us.
+So now it's up to us.<br>
 Because I need your HELP  (っ◔◡◔)っ 💖
