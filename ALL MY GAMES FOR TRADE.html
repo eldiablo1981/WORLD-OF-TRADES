@@ -6,7 +6,7 @@
    
    <meta charset="utf-8">
     <title>ALL MY GAMES FOR TRADE</title>
-    <link rel="stylesheet" href="Untitled1.css" type="text/css" />
+     <link rel="stylesheet" href="stylesheet.css" type="text/css" />
 	
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	
@@ -33,8 +33,10 @@ button {
 </head>
 
 <body>
-    <br/>  
-       <center>💝😍 ALL MY GAMES FOR TRADE 4/02/2021 💝😍<br>
+   
+     <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+      
+       <center>💝😍 ALL MY GAMES FOR TRADE 6/02/2021 💝😍<br>
 	    <a href="https://barter.vg/u/1fb5/t">MY BARTER,VG GAMES 4 TRADE LINK</a></center><br>
 		
     <p style="margin-top:70px"></p>
@@ -360,8 +362,7 @@ GRIDD: Retroenhanced
 
 <p style="margin-top:40px"></p>
 		
-	<a href="#top">
-	<img src="images/top.png" alt="Back to Top" title="Back to Top" width="100" height=90 /></a>
+
 	
 <center><br><a href="index.html">RETURN HOME PAGE</a></center><br>
 		
@@ -430,4 +431,36 @@ function removeHightlight() {
     }    
 }
 
+
+
+
+//Get the button:
+mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 950 || document.documentElement.scrollTop > 950) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+
+
+
+
+
+
 </script>
+</body>
+
+</html>
