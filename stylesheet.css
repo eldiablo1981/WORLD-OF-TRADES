@@ -7,21 +7,21 @@ body {
 #myBtn {
   display: none;
   position: fixed;
-  bottom: 50px;
-  right: 90px;
+  bottom: 90px;
+  right: 190px;
   z-index: 99;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
-  color: white;
+  background-color: #000000;
+  color: #ffffff;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: #003366;
 }
 
 
@@ -88,7 +88,7 @@ body {margin:0;height:1500px;}
   width: 30%;
   font-size: 16px;
   padding: 12px 20px 12px 60px;
-  border: 5px solid #ddd;
+  border: 5px solid #EE1B1B;
   margin-bottom: 2px;
    -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
@@ -109,16 +109,16 @@ body {margin:0;height:1500px;}
 #myUL li a {
   border: 1px solid #ddd;
   margin-top: -1px; /* Prevent double borders */
-  background-color: #f6f6f6;
+  background-color: #EE1B1B;
   padding: 12px 16px;
   text-decoration: none;
-  font-size: 18px;
-  color: black;
+  font-size: 22px;
+  color: #ffffff;
   display: block
 }
 
 #myUL li a:hover:not(.header) {
-  background-color: #ddd;
+  background-color: #003366;
 }
 
 
