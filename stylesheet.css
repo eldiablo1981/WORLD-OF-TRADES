@@ -107,7 +107,7 @@ body {margin:0;height:1500px;}
 }
 
 #myUL li a {
-  border: 1px solid #ddd;
+  border: 1px solid #003366;
   margin-top: -1px; /* Prevent double borders */
   background-color: #EE1B1B;
   padding: 12px 16px;
