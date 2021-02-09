@@ -85,12 +85,19 @@ body {margin:0;height:1500px;}
   background-image: url('/css/searchicon.png');
   background-position: 10px 12px;
   background-repeat: no-repeat;
-  width: 60%;
+  width: 30%;
   font-size: 16px;
   padding: 12px 20px 12px 60px;
   border: 5px solid #ddd;
   margin-bottom: 2px;
+   -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
 }
+
+#myInput[type=text]:focus {
+  width: 80%;
+}
+
 
 #myUL {
   list-style-type: none;
