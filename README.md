@@ -24,7 +24,7 @@ You just have to create an account and you will get your website directly.<br>
 You don't believe me?<br>
 Try it, it's FREE<br>
 <br>
-<br>TAKE A LOOK : https://eldiablo1981.github.io/WORLD-OF-TRADES/<br>
+<br>TAKE A LOOK : https://word-of-trades.netlify.app<br>
 <br>
 <br>
 
