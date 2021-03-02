@@ -17,15 +17,16 @@ Be able to COMPARE 2 LISTS OF NAMES (TEXT), and display the NAMES (TEXT) that ar
 <br>
 <br>
 INFO<br>
+
 NO PROGRAMS TO INSTALL. NOTHING<br>
 You update by DRAG AND DROP with your internet browser.<br>
 You just have to create an account and you will get your website directly.<br>
 You don't believe me?<br>
 Try it, it's FREE<br>
 <br>
+<br>TAKE A LOOK : https://eldiablo1981.github.io/WORLD-OF-TRADES/<br>
 <br>
 <br>
-
 
 💋👉 𝗩𝗘𝗥𝗬 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧:<br>
 
