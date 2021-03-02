@@ -25,7 +25,7 @@ You just have to create an account and you will get your website directly.<br>
 You don't believe me?<br>
 Try it, it's FREE<br>
 <br>
-<br>TAKE A LOOK : https://eldiablo1981.github.io/WORLD-OF-TRADES/<br>
+<br>TAKE A LOOK : https://word-of-trades.netlify.app<br>
 <br>
 <br>
 
@@ -39,7 +39,7 @@ That' s it, it's SIMPLE, but not on the net.<br>
 <br>
 <br>
 Just a little information:<br>
-I already added my games and my data. But it will be very easy to modify them with yours.<br>
+I already added my games and my data. But it will be very easy to modify them with yours. (MAX 20 Seconds)<br>
 That's the GOAL<br>
 <br>
 <br>
