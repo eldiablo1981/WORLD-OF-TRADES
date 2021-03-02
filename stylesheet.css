@@ -29,7 +29,24 @@ body {
   background-color: #4CAF50;
 }
 
+#demotext10 {
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 1175px, -7px -10px 111px rgba(206,89,55,0.38);
+color: #FFFFFF;
+font-size: 10px;
+width: center;
+position: floated;
+top: 30px;
+  
+}
 
+#demotext11 {
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 1175px, -7px -10px 111px rgba(206,89,55,0.38);
+color: black;
+font-size: 20px;
+position: position;
+top: 30px;
+  
+}
 
 #demotext {
 text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 1175px, -7px -10px 111px rgba(206,89,55,0.38);
