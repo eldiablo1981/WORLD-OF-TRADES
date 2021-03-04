@@ -1,0 +1,4 @@
+User-agent: *
+allow:
+Disallow: /images/
+Sitemap: https://fredyjackson-k4t.netlify.app/sitemap.xml

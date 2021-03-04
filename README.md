@@ -39,9 +39,10 @@ That' s it, it's SIMPLE, but not on the net.<br>
 <br>
 <br>
 Just a little information:<br>
-I already added my games and my data. But it will be very easy to modify them with yours. (MAX 20 Seconds)<br>
-That's the GOAL<br>
+I already added my games and my data.<br>
+But it will be very easy to modify them with yours. (MAX 20 Seconds)<br>
 <br>
 <br>
 So now it's up to us.<br>
 Because I need your HELP  (っ◔◡◔)っ 💖
+
