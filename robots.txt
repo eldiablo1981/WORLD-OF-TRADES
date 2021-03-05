@@ -1,4 +1,5 @@
 User-agent: *
 allow:
 Disallow: /images/
+Disallow: /favicon/
 Sitemap: https://eldiablo1981.github.io/WORLD-OF-TRADES/sitemap.xml
