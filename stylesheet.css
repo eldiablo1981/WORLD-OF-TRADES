@@ -1,5 +1,6 @@
 <style id="jsbin-css">
 
+ 
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -7,10 +8,9 @@ body {
   height:1000px;
 }
 
-
 .navbar {
   overflow: hidden;
-  background-color: black;
+  background-color: #262626;
   position: fixed;
   margin-left: 60px;
   margin-right: 60px;
@@ -27,17 +27,16 @@ body {
   font-size: 17px;
 }
 .navbar a:hover {
-  background: #ddd;
+  background: #88FF05;
   color: black;
 }
 .navbar a.active {
-  background-color: #EE1B1B;
+  background-color: #787878;
   color: white;
 }
 
-
 .header {
-  background-color: black;
+  background-color: #333333;
   color: #EE1B1B;
   padding: 20px;
   text-align: center;
@@ -50,7 +49,7 @@ body {
   margin-right: 60px;
   font-size: 20px;
   padding: 16px;
-  background-color: #EE1B1B;
+  background-color: #A20369;
 }
 
 .about {
@@ -62,6 +61,7 @@ body {
   color: #FF0000;
 }
 
+
 #myBtn {
   display: none;
   position: fixed;
@@ -72,7 +72,7 @@ body {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #FF1981;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -108,7 +108,6 @@ text-shadow: 0 1px 0 #ddd, 0 2px 0 #ddd, 0 3px 0 #ddd, 0 4px 0 #ddd, 0 5px 0 #dd
 .animate__animated.animate__tada {
   --animate-duration: 3s;
 }
-
 
 
 #demotext10 {
@@ -148,7 +147,7 @@ background: #4CAF50;
 letter-spacing: .1em;
 text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
 color: #e0dfdc;
-background: #EE1B1B;
+background: #A20369;
 font-size: 24px;
 }
 #demotext4 {
@@ -157,7 +156,7 @@ background: #4CAF50;
 letter-spacing: .1em;
 text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
 color: #e0dfdc;
-background: #EE1B1B;
+background: #A20369;
 font-size: 30px;
 }
 #demotext5 {
@@ -180,15 +179,6 @@ text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0
 color: #e0dfdc;
 background: #A20369;
 font-size: 25px;
-}
-
-
-.disqus{
- margin-left: 60px;
-  margin-right: 60px;
-  font-size: 20px;
-  padding: 70px;
-  background-color: #333333;
 }
 
 
@@ -232,7 +222,6 @@ font-size: 25px;
 
 
 
-
 * {
   box-sizing: border-box;
 }
@@ -245,6 +234,7 @@ font-size: 25px;
   font-size: 16px;
   padding: 12px 20px 12px 60px;
   border: 5px solid #ddd;
+  border-color: #88FF05;
   margin-bottom: 2px;
    -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
@@ -269,7 +259,7 @@ font-size: 25px;
   display: block
 }
 #myUL li a:hover:not(.header) {
-  background-color: #4CAF50;
+  background-color: #88FF05;
 }
 
 </style>
