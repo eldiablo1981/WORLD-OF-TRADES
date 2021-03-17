@@ -7,6 +7,19 @@ body {
   margin:0;
   height:1000px;
 }
+body { 
+animation: fadeInAnimation ease 8s; 
+animation-fill-mode: forwards; 
+animation-iteration-count: 1; 
+} 
+@keyframes fadeInAnimation { 
+0% { 
+opacity: 0; 
+} 
+100% { 
+opacity: 1; 
+} 
+} 
 
 #menu {
 	background: #010F00;
@@ -110,8 +123,9 @@ body {
 	#menu input:checked ~ ul {display:block}
 }
 
+
 .header {
-  background-color: black;
+  background-color: #333333;
   color: #EE1B1B;
   padding: 20px;
   text-align: center;
@@ -124,9 +138,8 @@ body {
   margin-right: 60px;
   font-size: 20px;
   padding: 16px;
-  background-color: #EE1B1B;
+  background-color: #A20369;
 }
-
 .about {
   margin-left: 60px;
   margin-right: 60px;
@@ -188,16 +201,6 @@ text-shadow: 0 1px 0 #ddd, 0 2px 0 #ddd, 0 3px 0 #ddd, 0 4px 0 #ddd, 0 5px 0 #dd
 .animate__animated.animate__flash {
   --animate-duration: 5s;
 }
-.animate__animated.animate__hinge{
-  display: inline-block;
-  margin: 0 0.5rem;
-
-  animation: hinge; /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 7s; /* don't forget to set a duration! */
-}
-.animate__animated.animate__tada {
-  --animate-duration: 3s;
-}
 
 
 #demotext10 {
@@ -237,7 +240,7 @@ background: #4CAF50;
 letter-spacing: .1em;
 text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
 color: #e0dfdc;
-background: #EE1B1B;
+background: #A20369;
 font-size: 24px;
 }
 #demotext4 {
@@ -246,7 +249,7 @@ background: #4CAF50;
 letter-spacing: .1em;
 text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
 color: #e0dfdc;
-background: #EE1B1B;
+background: #A20369;
 font-size: 30px;
 }
 #demotext5 {
@@ -260,15 +263,6 @@ color: #FFFFFF;
 text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
 color: #FFFFFF;
 font-size: 30px;
-}
-#demotext7 {
-color: #e0dfdc;
-background: #4CAF50;
-letter-spacing: .1em;
-text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
-color: #e0dfdc;
-background: #EE1B1B;
-font-size: 25px;
 }
 
 

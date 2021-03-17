@@ -11,6 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+<script src='js/script.js'></script>
 		
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
 
@@ -40,21 +41,34 @@
   <a href="https://cutt.ly/7jd8XvL" class="youtube" alt="MY YOUTUBE" title="MY YOUTUBE"> <i class="fab fa-youtube"></i></a> 
 </div>
 
-	
-<div class="navbar">
-  <b><a href="index.html" "javascript:void(0)" alt="HOMEPAGE" title="HOMEPAGE"><i class="fas fa-house-user" aria-hidden="true"></i>&nbsp; Home</a></b>
-  <b><a class="active" href="ALL MY GAMES FOR TRADE.html" "javascript:void(0)" alt="GAMES FOR TRADE" title="GAMES FOR TRADE"><i class="fas fa-key" aria-hidden="true"></i>&nbsp; MY GAMES FOR TRADE</a></b>
-  <b><a href="ALL MY GAMES.html" "javascript:void(0)" alt="ALL MY GAMES" title="ALL MY GAMES"><i class="fas fa-gamepad" aria-hidden="true"></i>&nbsp; ALL MY GAMES</a></b>
-  <b><a href="SEND ME  ATRADE OFFER.html" "javascript:void(0)" alt="CONTACT ME" title="CONTACT ME"><i class="far fa-envelope" aria-hidden="true"></i>&nbsp; Contact</a></b>
-<a href="fr/index_fr.html">
-<img src="images/france-flag.png"  alt="Français" title="Site En Français"/><i class="france-flag.png" aria-hidden="true"></i>&nbsp;SITE&nbsp;EN&nbsp;FR</a></b>
 
-</div>
+<nav id='menu'>
+  <input type='checkbox' id='responsive-menu' onclick='updatemenu()'><label></label>
+  <ul>
+    <li><b><a href="index.html" "javascript:void(0)" alt="HOMEPAGE" title="HOMEPAGE"><i class="fas fa-house-user" aria-hidden="true"></i> HOME</a></b></li>
+    <li><b><a class='dropdown-arrow' href='#'>KEYS 4 TRADE</a></b>
+      <ul class='sub-menus'>
+        <li><a class="active" href="ALL MY GAMES FOR TRADE.html" "javascript:void(0)" alt="GAMES FOR TRADE" title="GAMES I HAVE FOR TRADE"><i class="fas fa-key" aria-hidden="true"></i> KEYS I HAVE</a></li>
+        <li><a href="ALL MY GAMES.html" "javascript:void(0)" alt="ALL MY GAMES" title="ALL MY GAMES"><i class="fas fa-gamepad" aria-hidden="true"></i>ALL MY GAMES</a></li>
+      </ul>
+    </li>
+    <li><b><a class='dropdown-arrow' href='#'>CONTACT ME</a></b>
+      <ul class='sub-menus'>
+        <li><a href='https://tawk.to/FredyJackson' alt="LET'S GO CHAT" title="CHAT WITH ME NOW"> DIRECT CHAT</a></li>
+		<li><a href="SEND ME  ATRADE OFFER.html" "javascript:void(0)" alt="CONTACT ME" title="SEND ME A TRADE OFFER"><i class="far fa-envelope" aria-hidden="true"></i> TRADE OFFER</a></li>
+      </ul>
+    </li>
+	<li><b><a class='dropdown-arrow' href='#'>ABOUT</a></b>
+      <ul class='sub-menus'>
+        <li><a href="README.html" alt="SAME SITE FOR YOU?" title="YOU WANT THE SAME SITE?">SAME 4 YOU?</a></li>
+        <li><a href="https://fredyjackson-k4t.tawk.help/" alt="NEED HELP ON THE SITE ?" title="NEED HELP ON THE SITE ?">HELP PLEASE</a></li>
+      </ul>
+    </li>
+    <li><a href="fr/index_fr.html">
+<b><img src="images/france-flag.png"  alt="Français" title="Site En Français"/><i class="france-flag.png" aria-hidden="true"></i>&nbsp;SITE&nbsp;EN&nbsp;FR</a></b></li>
+  </ul>
+</nav>
 
-<p style="margin-top:40px"></p>
-  
-
-  
 <div class="header">
 <center><img src="images/logo3.png" alt="WELCOME LOGO 3" title="WELCOME LOGO 3" width="470" height=157/></a><br>
 		
@@ -441,6 +455,22 @@
 </div>
 
 
+
+
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6051a586f7ce18270930e6f0/1f0vet5s8';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
 
 <script id="jsbin-javascript">
