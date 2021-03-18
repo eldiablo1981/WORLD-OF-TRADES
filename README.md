@@ -26,6 +26,9 @@ You don't believe me?<br>
 Try it, it's FREE<br>
 <br>
 <br>TAKE A LOOK : https://word-of-trades.netlify.app<br>
+This SITE is the Demo, it is not always updated.<br>
+IF YOU WANT TO TRADE GAMES WITH ME, GO TO MY SITE : https://fredyjackson-k4t.netlify.app<br>
+Thank you: 
 <br>
 <br>
 
