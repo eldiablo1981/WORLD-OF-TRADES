@@ -4,7 +4,8 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
-  margin:0;
+  margin:auto;
+  width:100%;
   height:1000px;
 }
 body { 
@@ -25,11 +26,11 @@ opacity: 1;
 	background: #010F00;
 	color: #FFF;
 	height: 45px;
-	width: 90%;
+	width: 100%;
 	padding-left: 8px;
   position: fixed;
-  margin-left: 60px;
-	top: 0;
+  margin:auto;
+  top: 0;
 }
 #menu ul, #menu li {
 	margin: 0 auto;
@@ -123,26 +124,26 @@ opacity: 1;
 	#menu input:checked ~ ul {display:block}
 }
 
-
 .header {
-  background-color: #333333;
+  background-color: black;
   color: #EE1B1B;
-  padding: 20px;
+  padding: 16px;
   text-align: center;
-  margin-left: 60px;
-  margin-right: 60px;
+  margin:auto;
+  width:100%;
 }
 
 .content {
-  margin-left: 60px;
-  margin-right: 60px;
+  margin:auto;
+  width:100%;
   font-size: 20px;
   padding: 16px;
-  background-color: #A20369;
+  background-color: #EE1B1B;
 }
+
 .about {
-  margin-left: 60px;
-  margin-right: 60px;
+  margin:auto;
+  width:100%;
   font-size: 20px;
   padding: 16px;
   background-color: #333333;
@@ -201,6 +202,16 @@ text-shadow: 0 1px 0 #ddd, 0 2px 0 #ddd, 0 3px 0 #ddd, 0 4px 0 #ddd, 0 5px 0 #dd
 .animate__animated.animate__flash {
   --animate-duration: 5s;
 }
+.animate__animated.animate__hinge{
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: hinge; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate__animated.animate__tada {
+  --animate-duration: 3s;
+}
 
 
 #demotext10 {
@@ -240,7 +251,7 @@ background: #4CAF50;
 letter-spacing: .1em;
 text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
 color: #e0dfdc;
-background: #A20369;
+background: #EE1B1B;
 font-size: 24px;
 }
 #demotext4 {
@@ -249,7 +260,7 @@ background: #4CAF50;
 letter-spacing: .1em;
 text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
 color: #e0dfdc;
-background: #A20369;
+background: #EE1B1B;
 font-size: 30px;
 }
 #demotext5 {
@@ -264,13 +275,22 @@ text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 
 color: #FFFFFF;
 font-size: 30px;
 }
+#demotext7 {
+color: #e0dfdc;
+background: #4CAF50;
+letter-spacing: .1em;
+text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
+color: #e0dfdc;
+background: #EE1B1B;
+font-size: 25px;
+}
 
 
 .disqus{
- margin-left: 60px;
-  margin-right: 60px;
+  margin:auto;
+  width:100%;
   font-size: 20px;
-  padding: 70px;
+  padding: 40px;
   background-color: #333333;
 }
 
