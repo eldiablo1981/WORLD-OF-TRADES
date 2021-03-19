@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/WORLD-OF-TRADES/favicon/mstile-150x150.png?v=8jl2B8Xd4g"/>
+            <square150x150logo src="https://github.com/eldiablo1981/WORLD-OF-TRADES/blob/main/favicon/mstile-150x150.png?v=8jl2B8Xd4g"/>
             <TileColor>#9f00a7</TileColor>
         </tile>
     </msapplication>
