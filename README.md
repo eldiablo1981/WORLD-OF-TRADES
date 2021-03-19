@@ -25,9 +25,9 @@ You just have to create an account and you will get your website directly.<br>
 You don't believe me?<br>
 Try it, it's FREE<br>
 <br>
-<br>TAKE A LOOK : https://word-of-trades.netlify.app<br>
+<br>TAKE A LOOK : https://cutt.ly/word-of-trades<br>
 This SITE is the Demo, it is not always updated.<br>
-IF YOU WANT TO TRADE GAMES WITH ME, GO TO MY SITE : https://fredyjackson-k4t.netlify.app<br>
+IF YOU WANT TO TRADE GAMES WITH ME, GO TO MY SITE : https://cutt.ly/FredyJackson-Key4Trades<br>
 Thank you: 
 <br>
 <br>
